@@ -79,6 +79,7 @@
     position: fixed;
     user-select: none;
     z-index: 10;
+    font-size: 20px;
 }
 #searchIcon {
     right: 10px;

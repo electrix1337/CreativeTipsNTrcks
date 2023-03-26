@@ -1,6 +1,7 @@
 h1, h2{
     position: relative;
     left: 8%;
+    width: max-content;
 }
 h2 {
     color:grey;
