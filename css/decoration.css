@@ -1,0 +1,8 @@
+.redLine {
+    height: 5px;
+    background-color: red;
+    width: 100%;
+    display: inline-block;
+    position: fixed;
+    border-bottom: black 1px solid;
+}

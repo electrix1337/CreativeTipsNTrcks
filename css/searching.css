@@ -1,0 +1,15 @@
+.videoContainer{
+    border-bottom: 5px grey solid;
+    border-right: 5px grey solid;
+    border-left: 5px grey solid;
+    height: 70px;
+    width: calc(100% - 10px);
+    display: inline-block;
+}
+.videoContainer > div {
+    margin: 10px;
+}
+.link {
+    color: white;
+    text-decoration: none;
+}

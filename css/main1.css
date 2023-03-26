@@ -1,0 +1,36 @@
+#main {
+    top: 67px;
+    position: absolute;
+    min-height: calc(100% - 67px);
+    max-height: max-content;
+    width: calc(100% - 30px);
+    color:white;
+    left: 30px;
+}
+body {
+    margin: 0px;
+    background-image: url("https://wallpaperaccess.com/full/2119.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.text{
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+}
+.note {
+    font-style: italic;
+    width: 84%;
+    left: 8%;
+    display: inline-block;
+    position: relative;
+    color:grey;
+}
+.textLi{
+    font-size: 20px;
+    width: 90%;
+    left: 5%;
+    display: inline-block;
+    position: relative;
+}

@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    background-image: url("https://journalmetro.com/wp-content/uploads/2021/06/GENERAL_Journee-environnement-26-05-MC-474-mots.jpg?fit=1200%2C630");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#main {
+    top: 37px;
+    background-color: black;
+    position: absolute;
+    min-height: calc(100% - 37px);
+    max-height: max-content;
+    width: 80%;
+    color:white;
+    left: 10%;
+    opacity: 90%;
+}
+.text{
+    font-size: 20px;
+    width: 84%;
+    left: 8%;
+    display: inline-block;
+    position: relative;
+}
+.note {
+    font-style: italic;
+    width: 84%;
+    left: 8%;
+    display: inline-block;
+    position: relative;
+    color:grey;
+}
+.textLi{
+    font-size: 20px;
+    width: 90%;
+    left: 5%;
+    display: inline-block;
+    position: relative;
+}
