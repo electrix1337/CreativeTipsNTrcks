@@ -55,7 +55,7 @@
 .searchBarMenu {
     float: right;
     height: 30px;
-    width: calc(40% - 5px);
+    width: calc(40% - 10px);
     display: flexbox;
     background-color: white;
 }
