@@ -55,13 +55,9 @@
 .searchBarMenu {
     float: right;
     height: 30px;
-    width: calc(40% - 3px);
+    width: calc(40% - 5px);
     display: flexbox;
     background-color: white;
-}
-.buttonBarMenu > div{
-    width: max-content;
-    user-select: none;
 }
 .buttonBarMenu:hover{
     background-color: grey;
